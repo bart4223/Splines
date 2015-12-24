@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="javafx" name="Sample">
-    <output-path>$PROJECT_DIR$/out/artifacts/Sample</output-path>
+  <artifact type="javafx" name="Splines">
+    <output-path>$PROJECT_DIR$/out/artifacts/Splines</output-path>
     <properties id="javafx-properties">
       <options>
         <option name="appClass" value="Splines.Main" />
